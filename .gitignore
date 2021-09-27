@@ -1,0 +1,13 @@
+History/
+Project*Logs*for*MC*Alarm/
+__Previews/
+software/target/
+.vscode/
+__pycache__/
+*.pyc
+*.cam
+Project*Outputs*for*MC*Alarm/
+.OutJob
+.htm
+.PrjPCBStructure
+.PCBDwf
